@@ -1,0 +1,20 @@
+# Core Libraries
+streamlit
+python-dotenv
+
+# PDF Parsing
+pypdf
+PyPDF2
+
+# Google Cloud Services
+google-cloud-storage
+google-generativeai
+
+# Langchain Components
+langchain-google-genai
+langchain-text-splitters
+langchain-community # This line is commented out, which is fine if you're not using it directly anymore for PGVector
+langchain-postgres
+
+# Database Connectivity
+psycopg2-binary
